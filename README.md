@@ -55,3 +55,8 @@ Dividing content into columns keeps the layout organized, skimmable, and mobile-
 Font style: Georgia font for headlines adds elegance and trust; inter for body text improves readability.
 Color palette: Soft creams and deep blues — evoke calmness, focus, and trust.
 Illustration style: Friendly, flat, and human-centered to keep the mood welcoming and not overly commercial.
+
+*OUTPUT*: 
+
+<img width="1440" height="2960" alt="Image" src="https://github.com/user-attachments/assets/6327abb8-9db5-4a36-9233-2c3c022f6385" />
+
