@@ -59,5 +59,3 @@ Illustration style: Friendly, flat, and human-centered to keep the mood welcomin
 *OUTPUT*: 
 
 <img width="1440" height="2960" alt="Image" src="https://github.com/user-attachments/assets/6327abb8-9db5-4a36-9233-2c3c022f6385" />
-<img width="3666" height="4603" alt="Image" src="https://github.com/user-attachments/assets/8fbb3d33-e715-48fb-a51a-45f268f02dac" />
-<img width="1865" height="1692" alt="Image" src="https://github.com/user-attachments/assets/34566451-edb2-415c-a101-2d4c4cb30204" />
